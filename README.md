@@ -1,1 +1,1 @@
-# -TIET-SS-Mini-Project-01-Python-Assignment
+# TIET-SS-Mini-Project-01-Python-Assignment
